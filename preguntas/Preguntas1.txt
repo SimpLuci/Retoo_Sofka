@@ -1,0 +1,5 @@
+¿Cuales son los colores RGB?|*Rojo, verde y azul|Amarillo, azul y rojo|Negro y blanco|Dorado y plateado
+¿Cuales son los colores primarios?|Blanco y verde|Verde, rojo y azul|*Amarillo, azul y rojo|Rojo y azul
+¿En que siglo vivimos?|XIX|*XXI|XVII|VVII
+¿Cuantos segundos tiene una hora?|5000|4500|10000|*3600
+¿Cúal es el país más grande del mundo?|Canada|Colombia|*Rusia|Africa

@@ -1,0 +1,6 @@
+¿Cuantos años tiene un lustro?|10000|1000|50|*5
+¿Cual signo del zodiaco representa a los gemelos?|Acuario|Picsis|*Gemini|Tauro
+¿Quién liberó el pueblo de Israel?|Noeh|*Moises|Jesus|Dios
+¿Cuantos planetas tiene el sistema solar?|4|9|7|*8
+¿Cual es el proceso por el cual las plantas se alimentan?|Comer|Humectar|Rezar|*Fotosintesis
+

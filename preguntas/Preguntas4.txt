@@ -1,0 +1,5 @@
+¿Cuantos minutos tiene una semana?|*10.080|14.440|12.600|380
+¿En que año se descrubrio America?|1524|1343|*1492|1853
+¿En que año se dio la peste negra|1376|1356|1396|*1346
+¿Cual es el oceano mas grande del mundo?|*Oceano Pacifico|Oceano Atlantico|Oceano Indico|Oceano Artico
+¿Cuantas lunas tiene jupiter?|30|6|*79|21
